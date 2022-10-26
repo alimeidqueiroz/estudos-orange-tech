@@ -4,5 +4,8 @@ O Orange tech + é um projeto para você que deseja aprender do zero desenvolvim
 Repositório criado para reforçar alguns conceitos sobre Git
 
 ## Tópicos de estudo
+
 JavaScript
 HTML
+CSS
+TypeScript
